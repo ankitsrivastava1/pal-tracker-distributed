@@ -17,6 +17,7 @@ using Steeltoe.Security.Authentication.CloudFoundry;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Http;
 
+
 namespace AllocationsServer
 {
     public class Startup
